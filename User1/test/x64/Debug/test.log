@@ -1,0 +1,6 @@
+﻿  User1.cpp
+D:\Orders\С++\test\test\User1.cpp(48,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Orders\С++\test\test\User1.cpp(79,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Orders\С++\test\test\User1.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Orders\С++\test\test\User1.cpp(125,21): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> D:\Orders\С++\test\x64\Debug\test.exe
